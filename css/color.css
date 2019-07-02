@@ -1,7 +1,7 @@
 /*-------Color Style--------*/
 
 .carousel-style-one.owl-theme .owl-controls .owl-nav div:hover, .mainmenu ul#nav > li:hover > a, .mainmenu ul#nav li ul.sub-menu > li a:hover, .mean-container .mean-nav ul li a:hover, .about-carousel .owl-dot.active, .donate-text .color, .post-address, .post-share-view .post-address, .single-item:hover .donate-item-info a, .list .single-item .donate-item-info a, .testimonial-name, .single-footer-widget > a:hover, .color-blue, .footer-area span a, .footer-menu li a:hover, .pagination-content .pagination > li:last-child > a:hover, .comment-description .post-info > h3 a:hover, .post-reply .button-default, .sidebar-widget-lists a:hover, .recent-post-item h6 a:hover, .section-border .donate-text-wrapper > h3, .button a.button-default, .button button.button-default, .select-amount i, .image-information > a:hover, .title-text-content:after, .shortcode-area i, .shortcode-animation h3, .mega-menu a:hover {
-    color: #FF3379;
+    color: #ffffff;
 }
 .section-blue, .login-btn, .header-login-register > button, .mobile-menu-area, .mobile-menu-area .mean-nav, .button-default, .button-default.button-border:hover, .about-text > a:hover, .single-item:hover .button-default, .follow-links > a:hover, .subscribe-form > button:hover, .social-icons > a:hover, .campaign-details-bar .button-default:hover, .comment-container .post-info > a, .post-reply .button-default:hover, .section-border .donate-text-button > a, .button a.button-default:hover, .button button.button-default:hover, .contact-service-info:hover, .contact-button > button:hover, .image-information,.image-information:after, .single-sidebar-widget .tags li a:hover, .blog-area.with-sidebar .single-item:hover .button-default, .preview-2 .nivo-directionNav a.nivo-prevNav:hover:before, .preview-2 .nivo-directionNav a.nivo-nextNav:hover:before{
     background: #7bc5a2;
@@ -25,7 +25,7 @@
     background: #7bc5a2 none repeat scroll 0 0;
 }
 .header-fixed .mean-container .mean-nav ul li a:hover, .header-fixed .mainmenu ul#nav > li:hover > a, .header-fixed .mainmenu ul#nav li ul.sub-menu > li a:hover, .container-wrapper .carousel-style-one.owl-theme .owl-controls .owl-nav div:hover, .container-wrapper .featured-carousel .section-title h2, .container-wrapper .donate-text .color, .home-two .single-item:hover .donate-item-info a, .home-two .post-address, .footer-area.home-two span a, .home-two .footer-menu a:hover, .color-yellow, .home-two .single-footer-widget > a:hover {
-    color: #ed9914;
+    color: #ffffff;
 }
 .header-fixed .header-login-register li:hover a, .header-fixed .header-login-register button, .button-default.button-yellow, .button-default.button-border.yellow-hover:hover, .container-wrapper .featured-carousel .section-title h2, .container-wrapper .progress.style, .container-wrapper .donate-bar-item .button-default, .home-two .progress.style, .home-two .single-item:hover .button-default, .help-area.home-two .nav li.active a span.image, .help-area.home-two .nav li:hover a span.image, .footer-area.home-two, .home-two .social-icons > a:hover, .home-four .progress.style {
     border-color: #7bc5a2;
@@ -34,7 +34,7 @@
     border-color: #ed9914 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #ed9914;
 }
 .header-fixed .header-login-register button:after {
-    border-color: #ededed;
+    border-color: #ffffff;
 }
 
 /*-------Homepage Three Color Style--------*/
@@ -68,5 +68,5 @@ header-four .mainmenu ul#nav > li:hover > a, .header-four .mainmenu ul#nav .sub-
     border-color: #7bc5a2
 }
 .header-four .header-login-register > button:after {
-    border-color: #ededed;
+    border-color: #ffffff;
 }
